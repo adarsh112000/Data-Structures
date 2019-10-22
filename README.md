@@ -7,5 +7,6 @@ Programs :
   1. Linked List
   2. Stack
   3. Queue
+  4. Binary Tree
 
 All these programs are created by myself.
