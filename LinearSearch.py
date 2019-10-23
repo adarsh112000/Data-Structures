@@ -1,4 +1,5 @@
 #Linear Search Algorithm.
+#Programmed by Adarsh Choudhary
 
 def LinearSearch(my_list, n, item):
     for i in range(n):
