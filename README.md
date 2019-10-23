@@ -8,5 +8,6 @@ Programs :
   2. Stack
   3. Queue
   4. Binary Tree
+  5. Linear Search
 
 All these programs are created by myself.
