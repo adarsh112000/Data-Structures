@@ -9,5 +9,6 @@ Programs :
   3. Queue
   4. Binary Tree
   5. Linear Search
+  6. Merge Sort
 
 All these programs are created by myself.
